@@ -1,4 +1,6 @@
 # downloaders
+
+![license](https://img.shields.io/github/license/devsavsis/downloaders)
 Скрипты для скачивания Видео с Ютуба. Музыки с SoundCloud, Deezer.
 
 Python 3.14.5
